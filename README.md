@@ -12,7 +12,7 @@ Used Tools:
 
 Application Structure:
 =====================
-
+This app is divided into to main sections : The Store part and the admin panel. The admin's role is to perform CRUD operations on Categories and Products. 
 index.php
 ---------
 First page of the application. This page shows the store window with products, price and store availability.
