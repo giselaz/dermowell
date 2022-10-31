@@ -4,7 +4,7 @@ Simple E-Commerce System: A web interface that implements an e-commerce system u
 
 Used Tools:
 ==========
-- Apache/2.2.22 (Ubuntu)
+- Apache/2.4.53  
 - MySQL client version: 5.5.24
 - PHP extension: mysqli
 
